@@ -1,5 +1,5 @@
-# React Bootstrap with Material Design
-MDBootstrap for React
+# 3D Image Transformer
+Create a 3D Image based on several images of one object
 
 ## Getting Started
 To test, contribute or just see what we did follow few easy steps:
