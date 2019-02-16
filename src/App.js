@@ -33,9 +33,9 @@ class App extends Component {
     return (
       <Router>
         <div className="flyout">
-          <MDBNavbar color="indigo" dark expand="md" fixed="top" scrolling>
+          <MDBNavbar color="aqua-gradient" dark expand="md" fixed="top" scrolling>
             <MDBNavbarBrand href="/">
-              <Logo style={{ height: '2.5rem', width: "2.5rem" }} />
+              <Logo style={{ height: '3.5rem', width: "3.5rem" }} />
               Claim Submitter 3D
             </MDBNavbarBrand>
             <MDBNavbarToggler onClick={this.toggleCollapse("mainNavbarCollapse")} />

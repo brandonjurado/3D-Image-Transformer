@@ -20,7 +20,7 @@ class HomePage extends React.Component {
   render() {
     return (
       <div>
-        <MDBEdgeHeader color="indigo darken-3" />
+        <MDBEdgeHeader color="blue-gradient" />
         <MDBFreeBird>
           <MDBRow>
             <MDBCol
@@ -73,7 +73,7 @@ class HomePage extends React.Component {
                     </p>
                     <MDBNavLink
                       tag="button"
-                      className="btn btn-sm indigo darken-3"
+                      className="btn btn-sm purple-gradient"
                       to="/css"
                     >
                       Learn more
@@ -111,7 +111,7 @@ class HomePage extends React.Component {
                     </p>
                     <MDBNavLink
                       tag="button"
-                      className="btn btn-sm indigo darken-3"
+                      className="btn btn-sm purple-gradient"
                       to="/advanced"
                     >
                       Learn more
@@ -132,7 +132,7 @@ class HomePage extends React.Component {
                     </p>
                     <MDBNavLink
                       tag="button"
-                      className="btn btn-sm indigo darken-3"
+                      className="btn btn-sm purple-gradient"
                       to="/navigation"
                     >
                       Learn more
@@ -170,7 +170,7 @@ class HomePage extends React.Component {
                     </p>
                     <MDBNavLink
                       tag="button"
-                      className="btn btn-sm indigo darken-3"
+                      className="btn btn-sm purple-gradient"
                       to="/tables"
                     >
                       Learn more
@@ -191,7 +191,7 @@ class HomePage extends React.Component {
                     </p>
                     <MDBNavLink
                       tag="button"
-                      className="btn btn-sm indigo darken-3"
+                      className="btn btn-sm purple-gradient"
                       to="/modals"
                     >
                       Learn more
