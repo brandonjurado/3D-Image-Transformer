@@ -1,6 +1,20 @@
-import React from "react";
-import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink } from "mdbreact";
+import React, { Component } from "react";
+import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBFileInput } from "mdbreact";
+
 import "./HomePage.css";
+
+import { FilePond, registerPlugin } from 'react-filepond';
+import 'filepond/dist/filepond.min.css';
+import FilePondPluginImagePreview from 'filepond-plugin-image-preview';
+import FilePondPluginFileValidateType from 'filepond-plugin-file-validate-type';
+import 'filepond-plugin-image-preview/dist/filepond-plugin-image-preview.min.css';
+import FilePondPluginImageExifOrientation from 'filepond-plugin-image-exif-orientation';
+import FilePondPluginImageTransform from 'filepond-plugin-image-transform';
+
+registerPlugin(FilePondPluginImagePreview);
+registerPlugin(FilePondPluginFileValidateType);
+registerPlugin(FilePondPluginImageExifOrientation);
+registerPlugin(FilePondPluginImageTransform);
 
 class HomePage extends React.Component {
   render() {
@@ -14,25 +28,18 @@ class HomePage extends React.Component {
               className="mx-auto float-none white z-depth-1 py-2 px-2"
             >
               <MDBCardBody>
-                <h2 className="h2-responsive mb-4">
-                  <strong>MDB React Demo App</strong>
+                <h2 className="h2-responsive mb-4 text-center">
+                  <strong>Submit Photos For Your Claim</strong>
                 </h2>
-                <p>React Bootstrap with Material Design</p>
-                <p className="pb-4">
-                  This application shows the actual use of MDB React components
-                  in the application.
-                </p>
-                <MDBRow className="d-flex flex-row justify-content-center row">
-                  <a
-                    className="border nav-link border-light rounded mr-1"
-                    href="https://mdbootstrap.com/react/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <MDBIcon icon="graduation-cap" className="mr-2" />
-                    Official Documentation
-                  </a>
-                </MDBRow>
+                <p className="text-center">Drag & Drop images below or click on <strong>Browse</strong> to be prompted to select your images to be sumitted for a claim.</p>
+                <FilePond allowMultiple={true}
+                          server="http://http://localhost:3000/"
+                          acceptedFileTypes="image/*"
+                          labelFileTypeNotAllowed="Invalid file type selected"
+                          fileValidateTypeLabelExpectedTypes="Expects an image"
+                          allowImageExifOrientation={true}
+                          imageTransformOutputMimeType='image/jpeg'/>
+
               </MDBCardBody>
             </MDBCol>
           </MDBRow>
@@ -41,19 +48,16 @@ class HomePage extends React.Component {
           <MDBRow>
             <MDBCol md="10" className="mx-auto mt-4">
               <h2 className="text-center my-4 font-weight-bold">
-                Why is it so great?
+                What does this tool do?
               </h2>
               <p className="text-center">
-                Google has designed a Material Design to make the web more
-                beautiful and more user-friendly.
+                We submit all your provided images to a service we have created that will render a 3D image for you and our agents to look at for better inspection.
               </p>
+              <h2 className="text-center my-4 font-weight-bold">
+                Who are we?
+              </h2>
               <p className="text-center">
-                Twitter has created a Bootstrap to support you in faster and
-                easier development of responsive and effective websites.
-              </p>
-              <p className="text-center">
-                We present you a framework containing the best features of both
-                of them - Material Design for Bootstrap.
+                A group of developers with a diverse background of skills that have teamed up from Tarleton State University.
               </p>
               <hr className="my-5" />
               <MDBRow id="categories">
