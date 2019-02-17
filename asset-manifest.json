@@ -1,10 +1,10 @@
 {
   "main.css": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css",
-  "main.js": "/3D-Image-Transformer/static/js/main.af5151bb.chunk.js",
-  "main.js.map": "/3D-Image-Transformer/static/js/main.af5151bb.chunk.js.map",
+  "main.js": "/3D-Image-Transformer/static/js/main.2cb5b03e.chunk.js",
+  "main.js.map": "/3D-Image-Transformer/static/js/main.2cb5b03e.chunk.js.map",
   "static/css/1.9accc37b.chunk.css": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css",
-  "static/js/1.cd0a98b2.chunk.js": "/3D-Image-Transformer/static/js/1.cd0a98b2.chunk.js",
-  "static/js/1.cd0a98b2.chunk.js.map": "/3D-Image-Transformer/static/js/1.cd0a98b2.chunk.js.map",
+  "static/js/1.f9d5749f.chunk.js": "/3D-Image-Transformer/static/js/1.f9d5749f.chunk.js",
+  "static/js/1.f9d5749f.chunk.js.map": "/3D-Image-Transformer/static/js/1.f9d5749f.chunk.js.map",
   "runtime~main.js": "/3D-Image-Transformer/static/js/runtime~main.7058feba.js",
   "runtime~main.js.map": "/3D-Image-Transformer/static/js/runtime~main.7058feba.js.map",
   "static/media/mdb.css": "/3D-Image-Transformer/static/media/Roboto-Bold.e31fcf18.ttf",
@@ -13,6 +13,6 @@
   "static/css/main.f6d67505.chunk.css.map": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css.map",
   "static/css/1.9accc37b.chunk.css.map": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css.map",
   "index.html": "/3D-Image-Transformer/index.html",
-  "precache-manifest.1f73cb5007a6f58b91d4cf09b967c6c5.js": "/3D-Image-Transformer/precache-manifest.1f73cb5007a6f58b91d4cf09b967c6c5.js",
+  "precache-manifest.f3f01324992b63ab5d333e00993fd7df.js": "/3D-Image-Transformer/precache-manifest.f3f01324992b63ab5d333e00993fd7df.js",
   "service-worker.js": "/3D-Image-Transformer/service-worker.js"
 }

@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "af5151bbc2e93bd26b9c",
+    "revision": "2cb5b03eea9331bda74b",
     "url": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/logo.1979a343.svg"
   },
   {
-    "revision": "cd0a98b26b170ec2ac7c",
-    "url": "/3D-Image-Transformer/static/js/1.cd0a98b2.chunk.js"
+    "revision": "f9d5749f5d8544611cb9",
+    "url": "/3D-Image-Transformer/static/js/1.f9d5749f.chunk.js"
   },
   {
     "revision": "7058febabf6929c69e18",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "af5151bbc2e93bd26b9c",
-    "url": "/3D-Image-Transformer/static/js/main.af5151bb.chunk.js"
+    "revision": "2cb5b03eea9331bda74b",
+    "url": "/3D-Image-Transformer/static/js/main.2cb5b03e.chunk.js"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -128,12 +128,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
-    "revision": "7500519de3d82e33d1587f8042e2afcb",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Thin.7500519d.woff"
-  },
-  {
     "revision": "3b813c2ae0d04909a33a18d792912ee7",
     "url": "/3D-Image-Transformer/static/media/Roboto-Light.3b813c2a.woff"
+  },
+  {
+    "revision": "7500519de3d82e33d1587f8042e2afcb",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Thin.7500519d.woff"
   },
   {
     "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
@@ -148,31 +148,31 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
-  },
-  {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
     "url": "/3D-Image-Transformer/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "cd0a98b26b170ec2ac7c",
+    "revision": "f9d5749f5d8544611cb9",
     "url": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css"
   },
   {
-    "revision": "4994405b5c0b6d201a47073b02472736",
+    "revision": "3ec550e00ebcd8c0cf29074531f1b5ec",
     "url": "/3D-Image-Transformer/index.html"
   }
 ];
