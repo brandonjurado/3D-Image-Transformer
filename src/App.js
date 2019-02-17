@@ -48,7 +48,7 @@ class App extends Component {
                 <MDBNavItem>
                   <MDBNavLink
                     exact
-                    to="/"
+                    to="/home"
                     onClick={this.closeCollapse("mainNavbarCollapse")}
                   >
                     Home
