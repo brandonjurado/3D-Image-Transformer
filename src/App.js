@@ -34,7 +34,7 @@ class App extends Component {
       <Router>
         <div className="flyout">
           <MDBNavbar color="aqua-gradient" dark expand="md" fixed="top" scrolling>
-            <MDBNavbarBrand href="/">
+            <MDBNavbarBrand href="/home">
               <Logo style={{ height: '3.5rem', width: "3.5rem" }} />
               Claim Submitter 3D
             </MDBNavbarBrand>

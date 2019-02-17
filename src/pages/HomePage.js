@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBFileInput, MDBAnimation } from "mdbreact";
+import React from "react";
+import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBAnimation } from "mdbreact";
 
 import "./HomePage.css";
 
