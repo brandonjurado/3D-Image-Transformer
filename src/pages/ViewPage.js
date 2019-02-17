@@ -25,14 +25,14 @@ class ViewPage extends React.Component {
                   <p className="text-center">This is the 3D model we were able to create based off of the images your provided!</p>
                 </MDBAnimation>
 
-                <Iframe url="http://www.youtube.com/embed/xDMP3i36naA"
+                <Iframe url="https://brandonjurado.github.io/ReactObject3D/"
                     height="450px"
                     id="myId"
                     className="myClassname"
                     display="initial"
                     position="relative"
                     allowFullScreen/>
-                    
+
               </MDBCardBody>
             </MDBCol>
           </MDBRow>
