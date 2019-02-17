@@ -1,9 +1,27 @@
 import React from "react";
-import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBAnimation } from "mdbreact";
+import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBAnimation, MDBProgress } from "mdbreact";
 import "./HomePage.css";
 import Iframe from 'react-iframe';
 
 class ViewPage extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { seconds: 0 };
+  }
+
+  tick() {
+    this.setState(prevState => ({
+      seconds: prevState.seconds + 1
+    }));
+  }
+
+  componentDidMount() {
+    this.interval = setInterval(() => this.tick(), 400);
+  }
+
+  componentWillUnmount() {
+    clearInterval(this.interval);
+  }
   render() {
     return (
       <div>
@@ -32,6 +50,7 @@ class ViewPage extends React.Component {
                     display="initial"
                     position="relative"
                     allowFullScreen/>
+                <MDBProgress material value={this.state.seconds} striped />
 
               </MDBCardBody>
             </MDBCol>
