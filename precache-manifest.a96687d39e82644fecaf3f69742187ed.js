@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "e33fe503f57b4fd46441",
+    "revision": "e0ef13ff763e647353d5",
     "url": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.72f15fa7.woff"
   },
   {
-    "revision": "80efa56be5eaebd06ea34f1adbad071c",
-    "url": "/3D-Image-Transformer/static/media/fa-regular-400.80efa56b.eot"
-  },
-  {
     "revision": "fcb220ee57704c9c80680153bada946c",
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.fcb220ee.ttf"
+  },
+  {
+    "revision": "80efa56be5eaebd06ea34f1adbad071c",
+    "url": "/3D-Image-Transformer/static/media/fa-regular-400.80efa56b.eot"
   },
   {
     "revision": "662c24d02ff1711bd01ec3868df8680b",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.304f31f4.svg"
   },
   {
-    "revision": "20c189aa192501e4ec907d5f84e8fbb1",
-    "url": "/3D-Image-Transformer/static/media/fa-solid-900.20c189aa.ttf"
-  },
-  {
     "revision": "9a52a4e971938c52d6c541b9bf3dc2ec",
     "url": "/3D-Image-Transformer/static/media/fa-solid-900.9a52a4e9.eot"
+  },
+  {
+    "revision": "20c189aa192501e4ec907d5f84e8fbb1",
+    "url": "/3D-Image-Transformer/static/media/fa-solid-900.20c189aa.ttf"
   },
   {
     "revision": "e4fed0a589f7130c6ef834a029854646",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "e33fe503f57b4fd46441",
-    "url": "/3D-Image-Transformer/static/js/main.e33fe503.chunk.js"
+    "revision": "e0ef13ff763e647353d5",
+    "url": "/3D-Image-Transformer/static/js/main.e0ef13ff.chunk.js"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css"
   },
   {
-    "revision": "2db000f470675c40c87f9e32af044b70",
+    "revision": "f321d0c994c4755e0479bdb45f96b443",
     "url": "/3D-Image-Transformer/index.html"
   }
 ];
