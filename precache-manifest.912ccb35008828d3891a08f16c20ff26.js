@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.304f31f4.svg"
   },
   {
-    "revision": "20c189aa192501e4ec907d5f84e8fbb1",
-    "url": "/3D-Image-Transformer/static/media/fa-solid-900.20c189aa.ttf"
-  },
-  {
     "revision": "9a52a4e971938c52d6c541b9bf3dc2ec",
     "url": "/3D-Image-Transformer/static/media/fa-solid-900.9a52a4e9.eot"
+  },
+  {
+    "revision": "20c189aa192501e4ec907d5f84e8fbb1",
+    "url": "/3D-Image-Transformer/static/media/fa-solid-900.20c189aa.ttf"
   },
   {
     "revision": "e4fed0a589f7130c6ef834a029854646",
@@ -148,12 +148,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
