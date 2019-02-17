@@ -43,7 +43,7 @@ class ViewOtherModelPage extends React.Component {
                   <p className="text-center">This is the 3D model we were able to create based off of the images your provided!</p>
                 </MDBAnimation>
 
-                <Iframe url="https://brandonjurado.github.io/ReactObject3D/other"
+                <Iframe url="https://threejs.org/examples/#webgl_loader_ctm_materials"
                     height="450px"
                     id="myId"
                     className="myClassname"

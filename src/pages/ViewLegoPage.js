@@ -40,7 +40,7 @@ class ViewLegoPage extends React.Component {
                 </MDBAnimation>
 
                 <MDBAnimation type="fadeInDown">
-                  <p className="text-center">This is the 3D model we were able to create based off of the images your provided!</p>
+                  <p className="text-center">This is the 3D model we were able to create based off of the images you provided!</p>
                 </MDBAnimation>
 
                 <Iframe url="https://brandonjurado.github.io/ReactObject3D/"
