@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.72f15fa7.woff"
   },
   {
-    "revision": "80efa56be5eaebd06ea34f1adbad071c",
-    "url": "/3D-Image-Transformer/static/media/fa-regular-400.80efa56b.eot"
-  },
-  {
     "revision": "fcb220ee57704c9c80680153bada946c",
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.fcb220ee.ttf"
+  },
+  {
+    "revision": "80efa56be5eaebd06ea34f1adbad071c",
+    "url": "/3D-Image-Transformer/static/media/fa-regular-400.80efa56b.eot"
   },
   {
     "revision": "662c24d02ff1711bd01ec3868df8680b",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.304f31f4.svg"
   },
   {
-    "revision": "9a52a4e971938c52d6c541b9bf3dc2ec",
-    "url": "/3D-Image-Transformer/static/media/fa-solid-900.9a52a4e9.eot"
-  },
-  {
     "revision": "20c189aa192501e4ec907d5f84e8fbb1",
     "url": "/3D-Image-Transformer/static/media/fa-solid-900.20c189aa.ttf"
+  },
+  {
+    "revision": "9a52a4e971938c52d6c541b9bf3dc2ec",
+    "url": "/3D-Image-Transformer/static/media/fa-solid-900.9a52a4e9.eot"
   },
   {
     "revision": "e4fed0a589f7130c6ef834a029854646",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-solid-900.c8ea4c79.svg"
   },
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/3D-Image-Transformer/static/media/arrow_left.11911410.svg"
-  },
-  {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/3D-Image-Transformer/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/3D-Image-Transformer/static/media/arrow_left.11911410.svg"
   },
   {
     "revision": "91b23ae0df43cf4fa6ce",
@@ -112,20 +112,20 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
-    "revision": "69f8a0617ac472f78e45841323a3df9e",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Light.69f8a061.woff2"
-  },
-  {
     "revision": "2751ee43015f9884c3642f103b7f70c9",
     "url": "/3D-Image-Transformer/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
-    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Bold.39b2c303.woff2"
+    "revision": "69f8a0617ac472f78e45841323a3df9e",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/3D-Image-Transformer/static/media/Roboto-Medium.574fd0b5.woff2"
+  },
+  {
+    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
@@ -148,16 +148,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
@@ -166,6 +162,10 @@ self.__precacheManifest = [
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.e31fcf18.ttf"
+  },
+  {
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "6aafeb6ab25b31710b21",
