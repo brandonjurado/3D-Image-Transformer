@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/3D-Image-Transformer/precache-manifest.a014003f79931a511906b4ff2abb6162.js"
+  "/3D-Image-Transformer/precache-manifest.fc7b9db8b3b20fbc422a1e6fb7e73dae.js"
 );
 
 workbox.clientsClaim();
