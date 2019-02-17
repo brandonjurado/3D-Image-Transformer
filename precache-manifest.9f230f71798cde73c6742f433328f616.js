@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "516aee05b0343c8e0fea",
+    "revision": "f96460fe8afd76c8d1a8",
     "url": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css"
   },
   {
@@ -80,16 +80,16 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-solid-900.c8ea4c79.svg"
   },
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/3D-Image-Transformer/static/media/arrow_right.8ef6a08c.svg"
-  },
-  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/3D-Image-Transformer/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "516aee05b0343c8e0fea",
-    "url": "/3D-Image-Transformer/static/js/main.516aee05.chunk.js"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/3D-Image-Transformer/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "f96460fe8afd76c8d1a8",
+    "url": "/3D-Image-Transformer/static/js/main.f96460fe.chunk.js"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -148,20 +148,20 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/3D-Image-Transformer/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
@@ -172,7 +172,7 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css"
   },
   {
-    "revision": "95f3d3b691902ed65a7779606c9e0400",
+    "revision": "f0cb99f68f58d387eb3b5e905677d4e4",
     "url": "/3D-Image-Transformer/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css",
-  "main.js": "/3D-Image-Transformer/static/js/main.516aee05.chunk.js",
-  "main.js.map": "/3D-Image-Transformer/static/js/main.516aee05.chunk.js.map",
+  "main.js": "/3D-Image-Transformer/static/js/main.f96460fe.chunk.js",
+  "main.js.map": "/3D-Image-Transformer/static/js/main.f96460fe.chunk.js.map",
   "static/css/1.9accc37b.chunk.css": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css",
   "static/js/1.f9d5749f.chunk.js": "/3D-Image-Transformer/static/js/1.f9d5749f.chunk.js",
   "static/js/1.f9d5749f.chunk.js.map": "/3D-Image-Transformer/static/js/1.f9d5749f.chunk.js.map",
@@ -13,6 +13,6 @@
   "static/css/main.f6d67505.chunk.css.map": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css.map",
   "static/css/1.9accc37b.chunk.css.map": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css.map",
   "index.html": "/3D-Image-Transformer/index.html",
-  "precache-manifest.fc7b9db8b3b20fbc422a1e6fb7e73dae.js": "/3D-Image-Transformer/precache-manifest.fc7b9db8b3b20fbc422a1e6fb7e73dae.js",
+  "precache-manifest.9f230f71798cde73c6742f433328f616.js": "/3D-Image-Transformer/precache-manifest.9f230f71798cde73c6742f433328f616.js",
   "service-worker.js": "/3D-Image-Transformer/service-worker.js"
 }
