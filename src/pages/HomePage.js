@@ -46,6 +46,13 @@ class HomePage extends React.Component {
                           allowImageExifOrientation={true}
                           imageTransformOutputMimeType='image/jpeg'/>
 
+                <MDBNavLink
+                  tag="button"
+                  className="btn btn-sm purple-gradient"
+                  to="/view"
+                >
+                  View 3D Object
+                </MDBNavLink>
               </MDBCardBody>
             </MDBCol>
           </MDBRow>

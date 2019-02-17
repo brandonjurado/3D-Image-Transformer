@@ -52,6 +52,7 @@ import ValidationPage from "./pages/ValidationPage";
 import NavbarPage from "./pages/NavbarPage";
 import IframePage from "./pages/IframePage";
 import EdgeHeaderPage from "./pages/EdgeHeaderPage"
+import ViewPage from "./pages/ViewPage";
 
 
 class Routes extends React.Component {
@@ -59,6 +60,7 @@ class Routes extends React.Component {
     return (
       <Switch>
         <Route exact path="/3D-Image-Transformer/" component={HomePage} />
+        <Route exact path="/View" component={ViewPage} />
         <Route exact path="/css" component={CSSNavPage} />
         <Route exact path="/components" component={ComponentsNavPage} />
         <Route exact path="/advanced" component={AdvancedNavPage} />
