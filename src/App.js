@@ -34,7 +34,7 @@ class App extends Component {
       <Router>
         <div className="flyout">
           <MDBNavbar color="aqua-gradient" dark expand="md" fixed="top" scrolling>
-            <MDBNavbarBrand href="/home">
+            <MDBNavbarBrand href="/3D-Image-Transformer/">
               <Logo style={{ height: '3.5rem', width: "3.5rem" }} />
               Claim Submitter 3D
             </MDBNavbarBrand>
@@ -48,7 +48,7 @@ class App extends Component {
                 <MDBNavItem>
                   <MDBNavLink
                     exact
-                    to="/home"
+                    to="/3D-Image-Transformer/"
                     onClick={this.closeCollapse("mainNavbarCollapse")}
                   >
                     Home

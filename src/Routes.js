@@ -58,7 +58,7 @@ class Routes extends React.Component {
   render() {
     return (
       <Switch>
-        <Route exact path="/home" component={HomePage} />
+        <Route exact path="/3D-Image-Transformer/" component={HomePage} />
         <Route exact path="/css" component={CSSNavPage} />
         <Route exact path="/components" component={ComponentsNavPage} />
         <Route exact path="/advanced" component={AdvancedNavPage} />
