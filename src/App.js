@@ -65,14 +65,6 @@ class App extends Component {
                     </MDBDropdownMenu>
                   </MDBDropdown>
                 </MDBNavItem>
-                <MDBNavItem>
-                  <MDBNavLink
-                    onClick={this.closeCollapse("mainNavbarCollapse")}
-                    to="/css"
-                  >
-                    CSS
-                  </MDBNavLink>
-                </MDBNavItem>
               </MDBNavbarNav>
             </MDBCollapse>
           </MDBNavbar>
