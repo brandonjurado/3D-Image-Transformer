@@ -49,7 +49,7 @@ class HomePage extends React.Component {
                 <MDBNavLink
                   tag="button"
                   className="btn btn-sm purple-gradient"
-                  to="/view"
+                  to="lego"
                 >
                   View 3D Object
                 </MDBNavLink>

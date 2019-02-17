@@ -3,7 +3,7 @@ import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, 
 import "./HomePage.css";
 import Iframe from 'react-iframe';
 
-class ViewPage extends React.Component {
+class ViewOtherModelPage extends React.Component {
   constructor(props) {
     super(props);
     this.state = { seconds: 0 };
@@ -43,7 +43,7 @@ class ViewPage extends React.Component {
                   <p className="text-center">This is the 3D model we were able to create based off of the images your provided!</p>
                 </MDBAnimation>
 
-                <Iframe url="https://brandonjurado.github.io/ReactObject3D/"
+                <Iframe url="https://brandonjurado.github.io/ReactObject3D/other"
                     height="450px"
                     id="myId"
                     className="myClassname"
@@ -61,4 +61,4 @@ class ViewPage extends React.Component {
   }
 }
 
-export default ViewPage;
+export default ViewOtherModelPage;
