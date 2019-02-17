@@ -125,9 +125,9 @@ class App extends Component {
           <main style={{ marginTop: "4rem" }}>
             <Routes />
           </main>
-          <MDBFooter color="indigo">
+          <MDBFooter color="purple-gradient">
             <p className="footer-copyright mb-0 py-3 text-center">
-              &copy; {new Date().getFullYear()} Copyright: <a href="https://www.MDBootstrap.com"> MDBootstrap.com </a>
+              &copy; {new Date().getFullYear()} Copyright: <a href="https://brandonjurado.github.io/"> Brandon Jurado </a>
             </p>
           </MDBFooter>
         </div>
