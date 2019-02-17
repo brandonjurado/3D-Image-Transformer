@@ -36,7 +36,7 @@ class App extends Component {
           <MDBNavbar color="aqua-gradient" dark expand="md" fixed="top" scrolling>
             <MDBNavbarBrand href="/3D-Image-Transformer/">
               <Logo style={{ height: '3.5rem', width: "3.5rem" }} />
-              Claim Submitter 3D
+              EasyAR Claims
             </MDBNavbarBrand>
             <MDBNavbarToggler onClick={this.toggleCollapse("mainNavbarCollapse")} />
             <MDBCollapse
