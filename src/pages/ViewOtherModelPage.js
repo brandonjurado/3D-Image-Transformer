@@ -50,7 +50,6 @@ class ViewOtherModelPage extends React.Component {
                     display="initial"
                     position="relative"
                     allowFullScreen/>
-                <MDBProgress material value={this.state.seconds} striped />
 
               </MDBCardBody>
             </MDBCol>
