@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "5fef90512f24df2a8991",
+    "revision": "49f0f53af84879135295",
     "url": "/3D-Image-Transformer/static/css/main.f6d67505.chunk.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.72f15fa7.woff"
   },
   {
-    "revision": "80efa56be5eaebd06ea34f1adbad071c",
-    "url": "/3D-Image-Transformer/static/media/fa-regular-400.80efa56b.eot"
-  },
-  {
     "revision": "fcb220ee57704c9c80680153bada946c",
     "url": "/3D-Image-Transformer/static/media/fa-regular-400.fcb220ee.ttf"
+  },
+  {
+    "revision": "80efa56be5eaebd06ea34f1adbad071c",
+    "url": "/3D-Image-Transformer/static/media/fa-regular-400.80efa56b.eot"
   },
   {
     "revision": "662c24d02ff1711bd01ec3868df8680b",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "5fef90512f24df2a8991",
-    "url": "/3D-Image-Transformer/static/js/main.5fef9051.chunk.js"
+    "revision": "49f0f53af84879135295",
+    "url": "/3D-Image-Transformer/static/js/main.49f0f53a.chunk.js"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -148,12 +148,16 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/3D-Image-Transformer/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
@@ -164,15 +168,11 @@ self.__precacheManifest = [
     "url": "/3D-Image-Transformer/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/3D-Image-Transformer/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "f9d5749f5d8544611cb9",
     "url": "/3D-Image-Transformer/static/css/1.9accc37b.chunk.css"
   },
   {
-    "revision": "9ca84057b3f57c2baa156883200d1352",
+    "revision": "b7349557802cf56e0514dc6ead3bfb84",
     "url": "/3D-Image-Transformer/index.html"
   }
 ];
