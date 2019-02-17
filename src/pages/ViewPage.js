@@ -24,6 +24,7 @@ class ViewPage extends React.Component {
                 <MDBAnimation type="fadeInDown">
                   <p className="text-center">This is the 3D model we were able to create based off of the images your provided!</p>
                 </MDBAnimation>
+
                 <Iframe url="http://www.youtube.com/embed/xDMP3i36naA"
                     height="450px"
                     id="myId"
@@ -31,6 +32,7 @@ class ViewPage extends React.Component {
                     display="initial"
                     position="relative"
                     allowFullScreen/>
+                    
               </MDBCardBody>
             </MDBCol>
           </MDBRow>
