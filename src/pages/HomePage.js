@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBFileInput } from "mdbreact";
+import { MDBEdgeHeader, MDBFreeBird, MDBContainer, MDBCol, MDBRow, MDBCardBody, MDBIcon, MDBNavLink, MDBFileInput, MDBAnimation } from "mdbreact";
 
 import "./HomePage.css";
 
@@ -28,10 +28,16 @@ class HomePage extends React.Component {
               className="mx-auto float-none white z-depth-1 py-2 px-2"
             >
               <MDBCardBody>
-                <h2 className="h2-responsive mb-4 text-center">
-                  <strong>Submit Photos For Your Claim</strong>
-                </h2>
-                <p className="text-center">Drag & Drop images below or click on <strong>Browse</strong> to be prompted to select your images to be sumitted for a claim.</p>
+                <MDBAnimation type="pulse">
+                  <h2 className="h2-responsive mb-4 text-center">
+                    <strong>Submit Photos For Your Claim</strong>
+                  </h2>
+                </MDBAnimation>
+
+                <MDBAnimation type="fadeInDown">
+                  <p className="text-center">Drag & Drop images below or click on <strong>Browse</strong> to be prompted to select your images to be sumitted for a claim.</p>
+                </MDBAnimation>
+
                 <FilePond allowMultiple={true}
                           server="http://http://localhost:3000/"
                           acceptedFileTypes="image/*"
